@@ -1,0 +1,41 @@
+{
+  "name": "cordova-plugin-java7",
+  "version": "1.0.0",
+  "description": "Ask Cordova to Use Java 1.7",
+  "cordova": {
+    "id": "cordova-plugin-java7",
+    "platforms": [
+      "android",
+      "browser",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrRobWad/cordova-plugin-java7.git"
+  },
+  "keywords": [
+    "cordova",
+    "java"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=7.0.1"
+    }
+  ],
+  "author": {
+    "name": "Robert Waddell",
+    "email": "robert.waddell@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/MrRobWad/cordova-plugin-java7/LICENSE.md"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/MrRobWad/cordova-plugin-java7/issues"
+  },
+  "homepage": "https://github.com/MrRobWad/cordova-plugin-java7#readme"
+}
